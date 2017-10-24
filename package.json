@@ -39,7 +39,9 @@
       "electronWinstallerConfig": {
         "name": "electron_to_do_app"
       },
-      "electronInstallerDebian": {},
+      "electronInstallerDebian": {
+        "name": "electron_to_do_app"
+      },
       "electronInstallerRedhat": {},
       "github_repository": {
         "owner": "",
