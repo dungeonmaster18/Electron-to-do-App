@@ -4,8 +4,8 @@ It is an cross platform to do application. It has a simple user interface with m
 
 ## Platform Supported
 
-1- Windows - both 32 and 64 bit <br>
-2- Linux - both 32 and 64 bit <br>
+1- Windows - 64 bit <br>
+2- Linux - 64 bit <br>
 3- Mac OS X
 
 ## License
